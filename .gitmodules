@@ -13,7 +13,3 @@
 [submodule "ResidueNumberSystem"]
 	path = ResidueNumberSystem
 	url = https://github.com/karoljanic/ResidueNumberSystem
-
-[submodule "DropletExplosion"]
-	path = DropletExplosion
-	url = https://github.com/karoljanic/DropletExplosion
