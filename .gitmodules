@@ -1,0 +1,3 @@
+[submodule "ModBus"]
+	path = ModBus
+	url = https://github.com/karoljanic/ModBus
