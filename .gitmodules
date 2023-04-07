@@ -1,3 +1,15 @@
 [submodule "ModBus"]
 	path = ModBus
 	url = https://github.com/karoljanic/ModBus
+[submodule "Plagiarism"]
+	path = Plagiarism
+	url = https://github.com/karoljanic/Plagiarism
+[submodule "BmpOperations"]
+	path = BmpOperations
+	url = https://github.com/karoljanic/BmpOperations
+[submodule "RSA"]
+	path = RSA
+	url = https://github.com/karoljanic/RSA
+[submodule "ResidueNumberSystem"]
+	path = ResidueNumberSystem
+	url = https://github.com/karoljanic/ResidueNumberSystem
