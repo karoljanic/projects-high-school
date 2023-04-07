@@ -1,1 +1,1 @@
-## A repository collecting projects I created in high school.
+## A Repository Collecting Projects I Created In High School.
